@@ -1,4 +1,4 @@
-require 'yaml'
+require 'proj4'
 
 module GlobalConvert
   class Projection < Proj4::Projection
